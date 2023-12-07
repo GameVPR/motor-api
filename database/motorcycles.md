@@ -28,6 +28,7 @@ Motorcycles
 | 125  | Mondial         | 125 Drift L              | 9.00        | 10.70  | 9,000   | 8.00   | Naked     |
 | 125  | Mondial         | Vulture i 125            | 9.00        | 10.70  | 9,000   | 8.00   | Naked     |
 | 125  | Voge            | R125                     | 12.10       | 15.00  | 9,500   | 11.20  | Naked     |
+| 125  | KTM             | RC 125                   | 12.00       | 15.00  | 9,5XX   | 11.00  | Multiple  |
 | 150  | Honda           | PCX 150                  | 14.00       | 13.60  | 8,500   | 10.10  | Scooter   |
 | 200  | Bajaj           | Pulsar RS 200            | 18.70       | 24.20  | 9,750   | 18.00  | Racing    |
 | 250  | CFMOTO          | 250 NK                   | 22.00       | 26.10  | 9,200   | 19.50  | Naked     |
@@ -58,6 +59,11 @@ Motorcycles
 | 1200 | Triumph         | Speed Triple 1200 RS     | 125.00      | 180.00 | 10,750  | 134.20 | Naked     |
 | 1200 | BMW             | R1200GS                  | 125.00      | 125.00 | 7,750   | 93.20  | Adventure |
 | 1300 | KTM             | 1290 Super Duke R        | 140.00      | 180.00 | 8,870   | 131.40 | Naked     |
+| 1300 | Suzuki          | Hayabusa GSX1300RA       | 155.00      | 197.10 | 9,500   | 147.00 | Racing    |
 | 1700 | Harley Davidson | Road Glide Special       | 158.00      | 93.00  | 5,250   | 69.00  | Touring   |
+| 1800 | Honda           | GL1800 Gold Wing         | 170.00      | 126.40 | 5,500   | 93.00  | Touring   |
 | 1900 | Harley Davidson | Low Rider S              | 168.00      | 105.00 | 5,020   | 78.00  | Touring   |
+| ?    | MTT             | Y2K Turbine Superbike    | 500.00      | 420.00 | ?       | 310.00 | Racing    |
+| ?    | MTT             | 420RR Turbine Superbike  | 678.00      | 420.00 | ?       | 310.00 | Racing    |
+| ?    | Dodge           | Tomahawk                 | 712.00      | 500.00 | 5,600   | 370.00 | Racing    |
 -----------------------------------------------------------------------------------------------------------
